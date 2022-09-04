@@ -9,7 +9,7 @@
   "scripts": [
     "./scripts/inline-tables.js"
   ],
-  "manifest": "https://raw.githubusercontent.com/spaceman02-ops/Inline-Table-Rolls/main/module.json",
-  "download": "https://github.com/spaceman02-ops/Inline-Table-Rolls/archive/refs/tags/v0.1.0.zip",
+  "manifest": "https://github.com/creepyfellow/Inline-Table-Rolls/edit/main/module.json",
+  "download": "https://github.com/spaceman02-ops/Inline-Table-Rolls/archive/refs/tags/v0.0.8.zip",
   "readme": "https://github.com/spaceman02-ops/Inline-Table-Rolls/blob/main/readme.md"
 }
